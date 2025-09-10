@@ -31,7 +31,7 @@ O objetivo foi criar um **dashboard analítico de RH** para monitorar métricas 
 
 ## 📸 Preview do Dashboard  
 
-![Dashboard Preview](LAB5 RH/dash_rh_preview.png)  
+![Dashboard Preview](LAB5RH/dash_rh_preview.png)  
 
 ## 🚀 Resultados  
 Esse projeto me permitiu:  
